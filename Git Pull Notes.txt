@@ -1,0 +1,2 @@
+in Gitbash, do cd "folder name" until you get to folder you want to do a "git pull"
+-use ls to check folders within the folder
